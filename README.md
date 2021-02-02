@@ -9,12 +9,11 @@
 ### - [VS Code extencions](#VS-Code-extencions)
 ### - [Färger](#Färger)
 ### - [Logo](#Logo)
-### - Favico
-### - Gratis iconer
-### - Fonter
-### - Videon
-### - Musik
+### - [Favicons + gratis iconer](#Gratis-ico-&-icons)
+### - [Fonter](#Fonter)
+### - [Chrome extencions](#Chrome-extencions)
 ### - UI (React UI, Css UI)
+### - [Css generators](#CSS-generator)
 ### - Programmering cheat sheet
 
 # **Gratis bilder**
@@ -47,7 +46,6 @@ Websida | Beskrivning
 # **Färger**
 Websida | Beskrivning
 --------|------------|
-[Css gradient](https://cssgradient.io/) | Gör Css gradients (Välj färger och få färdigt koden)
 [Colormind](http://colormind.io/) | Få fram färg kombinationer och justera dom efter egen smak
 [Coolors](https://coolors.co/) | Få fram färkombinationer och justera dom efter egen smak
 [Html color codes](https://htmlcolorcodes.com/) | Får HEX, RGB och HSL färger
@@ -69,3 +67,55 @@ Websida | Beskrivning
 [Logo maker](https://logomakr.com/) | Skapa en egen logo
 [Namecheap](https://www.namecheap.com/logo-maker/) | Skapar en logga för dig
 [Hatchful](https://hatchful.shopify.com/) | Hjälper att skapa en logga för dig
+
+# **Gratis ico & icons**
+Websida | Beskrivning
+--------|------------|
+[Favicon.io](https://favicon.io/) | skapa favico från bild, text eller emoji
+[FavIcon generator](http://tools.dynamicdrive.com/favicon/) | skapa favico från bild
+[https://gauger.io/fonticon/](https://gauger.io/fonticon/) | Skapa en favico via ikoner
+[Font awesome](https://fontawesome.com/) | Olika sorters ikoner (har en pro version)
+[Line awesome](https://icons8.com/line-awesome) | Massor med olika ikoner för webbsida
+[Material Design](https://material.io/resources/icons/?icon=euro&style=baseline) | Ikoner för webbsida
+[Ionicons](https://ionicons.com/) | Ikoner för webbsida
+[Boxicons](https://boxicons.com/) | Ikoner för webbsida
+[Fontello](https://fontello.com/) | Ladda ner olika ikoner
+[Freeicons](https://freeicons.io/) | Gratis ikoner (SVG, PNG)
+[Icon-icons](https://icon-icons.com/) | Gratis ikoner (SVG, PNG, ICO)
+
+# **Fonter**
+Websida | Beskrivning
+--------|------------|
+[Google fonts](https://fonts.google.com/) | Googles egna fonter
+[1001 free fonts](https://www.1001freefonts.com/) | 1001 fonter DUH!
+[Font squirrel](https://www.fontsquirrel.com/) | Gratis fonter (passar för kommersiella produkter)
+[FontGet](https://www.fontget.com/) | Gratis fonter (kolla licens)
+[FontPair](https://fontpair.co/) | Olika fonter parade ihop
+[Font space](https://www.fontspace.com/) | Många gratis fonter (kolla licens)
+[FontDrop](https://fontdrop.info/#/) | Få mer information om nerladdad font
+[Glyphter](https://glyphter.com/) | Ladda ner SVG filer och gör dom till fontfiler
+[Google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) | Få CSS kod för font family (google fonter)
+
+# **Chrome extencions**
+Websida | Beskrivning
+--------|------------|
+[Web developer checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp/related?utm_source=chrome-ntp-icon) | Låter dig göra en checklista för en websida
+[What font](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?utm_source=chrome-ntp-icon) | Låter dig se vilken font som används på olika webbsidor
+[Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?utm_source=chrome-ntp-icon) | Colorpicker, eye dropper etc.
+[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-ntp-icon) | Låter dig se vad man har använt för att bygga en webbsida
+[Window resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?utm_source=chrome-ntp-icon) | Låter dig ändra skärm storleken (iphone, ipad etc.)
+[Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj?utm_source=chrome-ntp-icon) | Mäter mellanrum mellan element i webbsida
+[Browser stack](https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb?hl=en) | Kollar ifall webbsidan kan användas i alla browsers
+
+
+# **CSS generator**
+Websida | Beskrivning
+--------|------------|
+[CSS type set](http://csstypeset.com/) | Låter dig styla text + ger dig CSS koden
+[Enjoy CSS](https://enjoycss.com/) | Låter dig styla knappar, inputs etc.
+[Flexy boxes](https://the-echoplex.net/flexyboxes/) | låter dig få kod ifall du inte förstår flex
+[Patternify](http://www.patternify.com/) | Styla din egna bakgrund
+[Button generator](https://www.bestcssbuttongenerator.com/) | Skapa din egen knapp
+[Layerstyles](http://layerstyles.org/builder.html) | Hjälper dig att skriva layers
+[CSS gradient](https://cssgradient.io/) | Gör Css gradients (Välj färger och få färdigt koden)
+[CSS generator tool](https://cssgenerator.org/) | Olika sorters generators (box shadow, gradient etc.)
