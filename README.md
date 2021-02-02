@@ -14,7 +14,7 @@
 ### - [Chrome extencions](#Chrome-extencions)
 ### - UI (React UI, Css UI)
 ### - [Css generators](#CSS-generator)
-### - Programmering cheat sheet
+### - [Extra](#Extra)
 
 # **Gratis bilder**
 Websida | Beskrivning
@@ -27,6 +27,9 @@ Websida | Beskrivning
 [Magdeline](https://magdeleine.co/browse/)| Gratis bilder (Kolla license)
 [Gratisography](https://gratisography.com/) | Gratis bilder
 [Life of pix](https://www.lifeofpix.com/) | Gratis HD bilder
+<div align="right">
+    <b><a href="#Innehåll">⬆ Till början</a></b>
+</div>
 
 # **VS Code extencions**
 Websida | Beskrivning
@@ -43,6 +46,9 @@ Websida | Beskrivning
 [Live share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) | Låter dig skriva kod live med en kompis
 [Polacode](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019) |Tar snabbt och enkelt ett foto av bestämt område kod
 [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) |Låter dig testa JS kod genom att visa output
+<div align="right">
+    <b><a href="#Innehåll">⬆ Till början</a></b>
+</div>
 # **Färger**
 Websida | Beskrivning
 --------|------------|
@@ -55,6 +61,9 @@ Websida | Beskrivning
 [Adobe color](https://color.adobe.com/create/color-wheel) | Skapa färkombinationer
 [Color wheel](https://www.canva.com/colors/color-wheel/) | Ta fram en färg
 [Image color picker](https://imagecolorpicker.com/) | Få en färg från en bild
+<div align="right">
+    <b><a href="#Innehåll">⬆ Till början</a></b>
+</div>
 
 # **Logo**
 Websida | Beskrivning
@@ -67,6 +76,9 @@ Websida | Beskrivning
 [Logo maker](https://logomakr.com/) | Skapa en egen logo
 [Namecheap](https://www.namecheap.com/logo-maker/) | Skapar en logga för dig
 [Hatchful](https://hatchful.shopify.com/) | Hjälper att skapa en logga för dig
+<div align="right">
+    <b><a href="#Innehåll">⬆ Till början</a></b>
+</div>
 
 # **Gratis ico & icons**
 Websida | Beskrivning
@@ -76,12 +88,15 @@ Websida | Beskrivning
 [https://gauger.io/fonticon/](https://gauger.io/fonticon/) | Skapa en favico via ikoner
 [Font awesome](https://fontawesome.com/) | Olika sorters ikoner (har en pro version)
 [Line awesome](https://icons8.com/line-awesome) | Massor med olika ikoner för webbsida
-[Material Design](https://material.io/resources/icons/?icon=euro&style=baseline) | Ikoner för webbsida
+[Material Design](https://material.io/resources/icons/?style=baseline) | Ikoner för webbsida
 [Ionicons](https://ionicons.com/) | Ikoner för webbsida
 [Boxicons](https://boxicons.com/) | Ikoner för webbsida
 [Fontello](https://fontello.com/) | Ladda ner olika ikoner
 [Freeicons](https://freeicons.io/) | Gratis ikoner (SVG, PNG)
 [Icon-icons](https://icon-icons.com/) | Gratis ikoner (SVG, PNG, ICO)
+<div align="right">
+    <b><a href="#Innehåll">⬆ Till början</a></b>
+</div>
 
 # **Fonter**
 Websida | Beskrivning
@@ -95,6 +110,9 @@ Websida | Beskrivning
 [FontDrop](https://fontdrop.info/#/) | Få mer information om nerladdad font
 [Glyphter](https://glyphter.com/) | Ladda ner SVG filer och gör dom till fontfiler
 [Google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) | Få CSS kod för font family (google fonter)
+<div align="right">
+    <b><a href="#Innehåll">⬆ Till början</a></b>
+</div>
 
 # **Chrome extencions**
 Websida | Beskrivning
@@ -106,7 +124,26 @@ Websida | Beskrivning
 [Window resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?utm_source=chrome-ntp-icon) | Låter dig ändra skärm storleken (iphone, ipad etc.)
 [Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj?utm_source=chrome-ntp-icon) | Mäter mellanrum mellan element i webbsida
 [Browser stack](https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb?hl=en) | Kollar ifall webbsidan kan användas i alla browsers
+[Awesome screenshot & screen recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) | Låter dig ta screenshots och filma skärmen
+[Ublock origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) | Blockar reklam
+<div align="right">
+    <b><a href="#Innehåll">⬆ Till början</a></b>
+</div>
 
+# **UI**
+Websida | Beskrivning
+--------|------------|
+[Spinkit](https://tobiasahlin.com/spinkit/) | Koden för snygga loading screens
+[Moving letters](https://tobiasahlin.com/moving-letters/#1) | Koden för text animationer
+[CSS layout](https://csslayout.io/) | Olika layouts för basic webbsida
+[Material UI](https://material-ui.com/) | All sorters UI för ReactJS
+[Primer](https://primer.style/) | UI för CSS och REACT etc.
+[Error 404](https://error404.fun/) | Snygga 404-sidor
+[Flat UI](https://designmodo.github.io/Flat-UI/#) | Gratis UI design för webbsida
+[Stitches](https://stitches.hyperyolo.com/) | Bygg en enkel first page sida (Får koden av chrome-view funktion)
+<div align="right">
+    <b><a href="#Innehåll">⬆ Till början</a></b>
+</div>
 
 # **CSS generator**
 Websida | Beskrivning
@@ -119,3 +156,21 @@ Websida | Beskrivning
 [Layerstyles](http://layerstyles.org/builder.html) | Hjälper dig att skriva layers
 [CSS gradient](https://cssgradient.io/) | Gör Css gradients (Välj färger och få färdigt koden)
 [CSS generator tool](https://cssgenerator.org/) | Olika sorters generators (box shadow, gradient etc.)
+<div align="right">
+    <b><a href="#Innehåll">⬆ Till början</a></b>
+</div>
+
+# **Extra**
+Websida | Beskrivning
+--------|------------|
+[All the tags](https://allthetags.com/) | Förklarar alla "tags" i HTML
+[Markdownguide](https://www.markdownguide.org/cheat-sheet/) | Säged dom vanligaste funktionerna i markdown
+[Markdown GitHub](https://guides.github.com/features/mastering-markdown/) | Ger dig information om markdown och också extra funktioner som används i GitHub
+[W3Schools](https://www.w3schools.com/) | Ger dig grunder i funktioner om nästan alla sorters kodspråk
+[Discord.py Bots](https://discordpy.readthedocs.io/en/latest/ext/commands/api.html#bots) | Ger dig en förklaring hur du kan skriva egna kommandon till en discord bot
+[Discord.py Events](https://discordpy.readthedocs.io/en/latest/api.html#event-reference) | Lista på alla events du kan använda i en Discord bot
+[Grepper](https://www.codegrepper.com/code-examples/) | Kan ge svar på kod frågor om olika kodspråk
+[Stack overflow](https://stackoverflow.com/) | Hjälpsamt forum ifall man har kodproblem
+<div align="right">
+    <b><a href="#Innehåll">⬆ Till början</a></b>
+</div>
